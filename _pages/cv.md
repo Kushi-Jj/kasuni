@@ -1,11 +1,14 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Jeevan Jayasuriya - CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: /assets/pdf/Jeevan_Jayasuriya_Resume.pdf # Use your actual CV PDF path
+description: >
+  Graduate researcher in Industrial & Systems Engineering focused on human factors, systems & process optimization, 
+  biomechanics, and neuroergonomics, with expertise in multimodal physiological data analysis. Seeking Summer 2026 internship opportunities.
 toc:
   sidebar: left
 ---
+
