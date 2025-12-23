@@ -28,8 +28,8 @@ keywords: human factors, neuroergonomics, biomechanics, fNIRS, motion capture, w
 lang: en
 icon: 🧠
 
-url: https://kasuni-Prasadi.github.io/kasuni
-baseurl: ""   # leave blank if this is a main site, not a subfolder
+url: https://Kushi-Jj.github.io
+baseurl: /kasuni  # leave blank if this is a main site, not a subfolder
 
 last_updated: true
 impressum_path:
