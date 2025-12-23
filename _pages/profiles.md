@@ -1,28 +1,30 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: People
+description: Members of our research lab or group
 nav: true
 nav_order: 7
 
 profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: /assets/images/jeevan_profile.jpg # Replace with your actual photo
+    content: about_jeevan.md # Create this markdown file with your bio
+    image_circular: true
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: jayasuriyaar@wisc.edu</p>
+      <p>Phone: (315) 261-3235</p>
+      <p>Location: Madison, WI 53705</p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/jeevanJayasuriya" target="_blank">linkedin.com/in/jeevanJayasuriya</a></p>
+      <p>Google Scholar: <a href="https://scholar.google.com/citations?hl=en&user=gYFDPv8AAAAJ" target="_blank">View Publications</a></p>
+
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
+    image: /assets/images/labmate_profile.jpg # Optional second member
+    content: about_labmate.md
+    image_circular: true
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Email: labmate@example.com</p>
+      <p>Phone: (123) 456-7890</p>
+      <p>Location: City, State</p>
+      <p>LinkedIn: <a href="#" target="_blank">View Profile</a></p>
 ---
